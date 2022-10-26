@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "759606438447",
+    "project_id": "app123-236c1",
+    "storage_bucket": "app123-236c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759606438447:android:836a75298b205658bd34da",
+        "android_client_info": {
+          "package_name": "com.example.civilservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759606438447-31qr9gcionlukdfqs8dokoo9a27mg69r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWCte7L_mq639R7awllSmkfIPBRgqun4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759606438447-31qr9gcionlukdfqs8dokoo9a27mg69r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759606438447:android:b277f391a271e44fbd34da",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759606438447-31qr9gcionlukdfqs8dokoo9a27mg69r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWCte7L_mq639R7awllSmkfIPBRgqun4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759606438447-31qr9gcionlukdfqs8dokoo9a27mg69r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
